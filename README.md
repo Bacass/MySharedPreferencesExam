@@ -1,0 +1,2 @@
+# MySharedPreferencesExam
+Android SharedPreferences Exam
